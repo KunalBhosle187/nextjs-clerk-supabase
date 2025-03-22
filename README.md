@@ -40,20 +40,10 @@ This template allows you to get started with Clerk and Supabase in Next.js (App 
 - Type-safe database queries with generated types
 - Real-time subscriptions and live updates
 
-## Demo
-
-A hosted demo of this example is available at https://clerk-nextjs-app-router.vercel.app/
-
-## Deploy
-
-Easily deploy the template to Vercel with the button below. You will need to set the required environment variables for both Clerk and Supabase in the Vercel dashboard.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fclerk%2Fnextjs-auth-starter-template&env=CLERK_SECRET_KEY,NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY&envDescription=API%20keys%20needed%20for%20authentication%20and%20database%20access&envLink=https%3A%2F%2Fgithub.com%2Fclerk%2Fnextjs-auth-starter-template%3Ftab%3Dreadme-ov-file%23running-the-template&demo-url=https%3A%2F%2Fnextjs-auth-starter-template-kit.vercel.app%2F)
-
 ## Running the template
 
 ```bash
-git clone https://github.com/clerk/clerk-nextjs-demo-app-router
+git clone https://github.com/KunalBhosle187/nextjs-clerk-supabase
 ```
 
 To run the example locally, you need to:
